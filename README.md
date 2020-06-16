@@ -1,2 +1,2 @@
-# retro_ball_public
-Public repo to my game!
+# Retro_ball
+ First ever game I created. Written in Java.
